@@ -7,7 +7,7 @@ This project presents a large-scale **narrative network analysis (NNA)** of tech
 Traditional narrative analysis in media studies relies heavily on manual coding, limiting scalability and reproducibility. This project addresses these limitations by implementing an automated, data-driven framework capable of extracting and analysing narrative structure across hundreds of thousands of articles.
 
 ## Data
-- **Source:** New York Times Annotated Corpus  
+- **Source:** [New York Times Annotated Corpus](https://abacus.library.ubc.ca/dataset.xhtml?persistentId=hdl:11272.1/AB2/GZC6PL)  
 - **Period:** 1987–2007  
 - **Corpus Size:** ~500,000 technology-tagged articles  
 - **Background Corpus:** General NYT Top News articles for relative weighting and bias comparison  
