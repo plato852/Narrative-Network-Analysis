@@ -52,14 +52,8 @@ The analysis follows a rigorous computational pipeline:
 - **Data Formats:** JSON, GraphML  
 - **Environment:** Jupyter Notebook  
 
-## Academic Context
-This project was completed as part of the **MSc Data Science** programme at the **University of Bath** under the supervision of **Professor Nello Cristianini**. It demonstrates first-class level competence in applied NLP, network science, and computational social science, with clear potential for extension to contemporary domains such as AI governance and digital platforms.
-
 ## Future Work
 - Extend the framework to multi-source and multilingual news corpora  
 - Incorporate sentiment and emotion analysis  
 - Adapt the pipeline for real-time narrative monitoring  
 
----
-
-*Author: Plato Ng*
